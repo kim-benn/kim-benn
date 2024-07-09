@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kim-benn
 - 👀 I’m interested in learning K8S
-- 🌱 I’m currently learning Argo CD
+- 🌱 I’m currently learning Argo CD and TerraForm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
